@@ -98,5 +98,9 @@
   }, {
     "name": "audio",
     "svg": "hardware/svg/production/ic_headset_48px.svg"
+  }, {
+    "name": "check",
+    "svg": "check.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
