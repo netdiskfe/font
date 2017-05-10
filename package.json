@@ -4,7 +4,7 @@
   "description": "Video.js icon font",
   "repository": {
     "type": "git",
-    "url": "https://github.com/videojs/font.git"
+    "url": "https://github.com/netdiskfe/font.git"
   },
   "scripts": {
     "version": "grunt && git add ."
