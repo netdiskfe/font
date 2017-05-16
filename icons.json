@@ -103,8 +103,8 @@
     "svg": "check.svg",
     "root-dir": "./custom-icons/"
   }, {
-    "name": "arrow-drop-down",
-    "svg": "arrow-drop-down.svg",
+    "name": "dropdown",
+    "svg": "dropdown.svg",
     "root-dir": "./custom-icons/"
   }]
 }
