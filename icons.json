@@ -92,12 +92,12 @@
     "svg": "pinterest.svg",
     "root-dir": "./custom-icons/fontawesome/"
   }, {
-    "name": "audio",
-    "svg": "hardware/svg/production/ic_headset_48px.svg"
-  }, {
     "name": "audio-description",
     "svg": "audio-description.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "audio",
+    "svg": "hardware/svg/production/ic_headset_48px.svg"
   }, {
     "name": "check",
     "svg": "check.svg",
