@@ -107,6 +107,10 @@
     "svg": "dropdown.svg",
     "root-dir": "./custom-icons/"
   }, {
+    "name": "dropup",
+    "svg": "dropup.svg",
+    "root-dir": "./custom-icons/"
+  }, {
     "name": "add",
     "svg": "add.svg",
     "root-dir": "./custom-icons/"
