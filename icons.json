@@ -106,5 +106,13 @@
     "name": "dropdown",
     "svg": "dropdown.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "add",
+    "svg": "add.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "remove",
+    "svg": "remove.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
